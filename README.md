@@ -1,1 +1,1 @@
-# redax_js
+# redux_js
